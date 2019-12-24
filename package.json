@@ -1,0 +1,15 @@
+{
+  "name": "Fiera",
+  "version": "1.0.0",
+  "description": "Solving Some Questions from Fiera Problem Bank",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "KAZI",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
+}
